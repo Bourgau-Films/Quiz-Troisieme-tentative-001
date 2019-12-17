@@ -1,37 +1,27 @@
-## Welcome to GitHub Pages
+# Quiz sur Troisième Tentative 001
 
-You can use the [editor on GitHub](https://github.com/Bourgau-Films/Quiz-Troisiemetentative001/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+Répondez aux questions par mail (sachant que l'adresse e-mail commence par bourgau.films et que cette adresse est faite par gMail) pour tenter de gagner un autographe ou son nom dans le générique de fin de notre film.  
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### Question 1
 
-### Markdown
+Comment s'appelle la personne qui a reprise l'enquête ?
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### Question 2
 
-```markdown
-Syntax highlighted code block
+Que trouve Mr.Leroy dans le bureau de Mr.Francisco ?
 
-# Header 1
-## Header 2
-### Header 3
+### Question 3
 
-- Bulleted
-- List
+Où a lieu le braquage dont Mr.Swarovski est l'auteur ?
 
-1. Numbered
-2. List
+### Question 4
 
-**Bold** and _Italic_ and `Code` text
+Que trouve Mr.Leroy dans la voiture du 44 avenue Fredericson ?
 
-[Link](url) and ![Image](src)
-```
+### Question 5
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+Quelle sanction va recevoir Mr.Dupont pour avoir commis le vol de l'ordinateur ?
 
-### Jekyll Themes
+**Les réponses et le nom du vainqueur vous seront envoyés par e-mail dès que nous aurons désigné le vainqueur.** 
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Bourgau-Films/Quiz-Troisiemetentative001/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+## Merci pour votre fidélité et à bientôt !
